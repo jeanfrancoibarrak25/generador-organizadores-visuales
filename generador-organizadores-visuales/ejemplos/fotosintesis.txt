@@ -1,0 +1,19 @@
+# La fotosíntesis
+
+La fotosíntesis es el proceso mediante el cual las plantas, las algas y algunas bacterias transforman la energía luminosa en energía química. Gracias a este proceso se produce el oxígeno que respiran la mayoría de los seres vivos del planeta.
+
+## Fase luminosa
+
+La fase luminosa ocurre en los tilacoides de los cloroplastos y necesita luz solar. La clorofila absorbe la luz y, por lo tanto, se rompen las moléculas de agua liberando oxígeno. Además, se generan ATP y NADPH, que sirven como fuente de energía para la siguiente fase.
+
+## Fase oscura o ciclo de Calvin
+
+La fase oscura se realiza en el estroma del cloroplasto y no depende directamente de la luz. En esta fase el dióxido de carbono se fija y se transforma en glucosa. Sin embargo, utiliza la energía del ATP y NADPH producidos en la fase luminosa.
+
+## Factores que influyen
+
+La intensidad de la luz, la concentración de dióxido de carbono y la temperatura influyen en la velocidad de la fotosíntesis. Si la temperatura supera los 35 °C, las enzimas pierden eficiencia. También la disponibilidad de agua es determinante.
+
+## Importancia
+
+La fotosíntesis produce cerca del 50 % del oxígeno atmosférico gracias al fitoplancton marino. Además, es la base de las cadenas alimenticias, porque las plantas son productoras de materia orgánica. En 1779 Jan Ingenhousz demostró que la luz era necesaria para el proceso, y en 1950 Melvin Calvin describió el ciclo que lleva su nombre.
